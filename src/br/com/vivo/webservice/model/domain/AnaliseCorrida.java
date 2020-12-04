@@ -53,12 +53,4 @@ public class AnaliseCorrida {
     public void removeHeroi(Heroi heroi) {
     	listHeroi.remove(heroi);
     }
-	
-//	@Override
-//	public int compareTo(Heroi heroi) {
-//		if(heroi.getId() != null) {
-//			return ((Heroi) this.listHeroi).getId().compareTo(heroi.getId());
-//		} else return 0;
-//	}
-	
 }

@@ -1,11 +1,8 @@
-##Build with Eclipse
-jdk
-
 
 ## Para rodar bastar clonar o repositorio e rodar no Eclipse.
 
-### Projeto Web dinamic onde utilizei o Maven para poder utilizar dependencias de configuração, o servidor utilizado foi o TOMCAT 9.
-### Os packages foram divididos em HeroiResource.java, HeroiService.java e o dao, que tem o jsonUtil, que foi utilizado para fazer a leitura do arquivo.
+### Projeto Web Dinamic obteve o auxílio do gerenciador de dependências Maven e o servidor TOMCAT 9.
+### As Classes principais foram divididos em HeroiResource.java, HeroiService.java e o jsonUtil(utilizado para a leitura do arquivo csv).
 
 ## Built with
 
